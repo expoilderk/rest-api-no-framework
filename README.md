@@ -1,1 +1,1 @@
-# Complete Web REST API using only the Node.js core.
+# Complete REST API using only the Node.js core.
