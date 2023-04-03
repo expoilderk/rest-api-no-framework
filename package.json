@@ -1,0 +1,25 @@
+{
+	"name": "rest-api-no-framework",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"type": "module",
+	"scripts": {
+		"start": "node src/server.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/expoilderk/rest-api-no-framework.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/expoilderk/rest-api-no-framework/issues"
+	},
+	"homepage": "https://github.com/expoilderk/rest-api-no-framework#readme",
+	"devDependencies": {
+		"@types/node": "^18.15.11"
+	}
+}
